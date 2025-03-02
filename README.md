@@ -1,2 +1,2 @@
-# internship-projects
+# calculator
 test
